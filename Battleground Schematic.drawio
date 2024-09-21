@@ -50,8 +50,11 @@
         <mxCell id="Nho57AFlRB3N6ktIgYb_-8" value="OS Ticket Server" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="480" y="237.5" width="40" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="Nho57AFlRB3N6ktIgYb_-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nho57AFlRB3N6ktIgYb_-9" target="Nho57AFlRB3N6ktIgYb_-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Nho57AFlRB3N6ktIgYb_-9" value="C2 Server" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="610" y="200" width="40" height="50" as="geometry" />
+          <mxGeometry x="510" y="81.38" width="40" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Nho57AFlRB3N6ktIgYb_-19" value="Private network: 172.31.0.0/24&lt;div&gt;Range: 172.31.0.1-254&lt;/div&gt;&lt;div&gt;Subnet Mask 255.255.255.0&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="250" width="174" height="50" as="geometry" />
@@ -77,8 +80,13 @@
         <mxCell id="Nho57AFlRB3N6ktIgYb_-27" value="Internet" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="304.62" y="96.37" width="50" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="Nho57AFlRB3N6ktIgYb_-31" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Nho57AFlRB3N6ktIgYb_-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Nho57AFlRB3N6ktIgYb_-29" value="Attacker" style="image;html=1;image=img/lib/clip_art/computers/Netbook_128x128.png;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="480" y="82.75" width="50" height="46" as="geometry" />
+          <mxGeometry x="440" y="10" width="50" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
