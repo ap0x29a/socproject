@@ -12,9 +12,7 @@
         </mxCell>
         <mxCell id="QwaxLMaPlwHEOL7J1Gln-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="QwaxLMaPlwHEOL7J1Gln-3" target="QwaxLMaPlwHEOL7J1Gln-2">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="400" y="250" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QwaxLMaPlwHEOL7J1Gln-3" value="Windows 10&lt;div&gt;DHCP&lt;/div&gt;&lt;div&gt;Splunk forwarder&lt;/div&gt;&lt;div&gt;Sysmon&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=mxgraph.signs.tech.computer;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
